@@ -23,7 +23,7 @@ This template is compatible with the latest **stable** version of Android Studio
 1. Clone this branch
 
 ```
-git clone git@github.com:osedhelu/templates-nexgo-apk.git --branch osedhelu
+git clone git@github.com:osedhelu/templates-nexgo-apk.git --branch main
 ```
 
 2. Run the customizer script:
